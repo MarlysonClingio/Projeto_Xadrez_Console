@@ -1,0 +1,16 @@
+C:\Users\Marlyson Clingio\source\repos\Projeto-Xadrez-Console\obj\Debug\net5.0\Projeto-Xadrez-Console.csproj.AssemblyReference.cache
+C:\Users\Marlyson Clingio\source\repos\Projeto-Xadrez-Console\obj\Debug\net5.0\Projeto-Xadrez-Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marlyson Clingio\source\repos\Projeto-Xadrez-Console\obj\Debug\net5.0\Projeto-Xadrez-Console.AssemblyInfoInputs.cache
+C:\Users\Marlyson Clingio\source\repos\Projeto-Xadrez-Console\obj\Debug\net5.0\Projeto-Xadrez-Console.AssemblyInfo.cs
+C:\Users\Marlyson Clingio\source\repos\Projeto-Xadrez-Console\obj\Debug\net5.0\Projeto-Xadrez-Console.csproj.CoreCompileInputs.cache
+C:\Users\Marlyson Clingio\source\repos\Projeto-Xadrez-Console\bin\Debug\net5.0\Projeto-Xadrez-Console.exe
+C:\Users\Marlyson Clingio\source\repos\Projeto-Xadrez-Console\bin\Debug\net5.0\Projeto-Xadrez-Console.deps.json
+C:\Users\Marlyson Clingio\source\repos\Projeto-Xadrez-Console\bin\Debug\net5.0\Projeto-Xadrez-Console.runtimeconfig.json
+C:\Users\Marlyson Clingio\source\repos\Projeto-Xadrez-Console\bin\Debug\net5.0\Projeto-Xadrez-Console.runtimeconfig.dev.json
+C:\Users\Marlyson Clingio\source\repos\Projeto-Xadrez-Console\bin\Debug\net5.0\Projeto-Xadrez-Console.dll
+C:\Users\Marlyson Clingio\source\repos\Projeto-Xadrez-Console\bin\Debug\net5.0\ref\Projeto-Xadrez-Console.dll
+C:\Users\Marlyson Clingio\source\repos\Projeto-Xadrez-Console\bin\Debug\net5.0\Projeto-Xadrez-Console.pdb
+C:\Users\Marlyson Clingio\source\repos\Projeto-Xadrez-Console\obj\Debug\net5.0\Projeto-Xadrez-Console.dll
+C:\Users\Marlyson Clingio\source\repos\Projeto-Xadrez-Console\obj\Debug\net5.0\ref\Projeto-Xadrez-Console.dll
+C:\Users\Marlyson Clingio\source\repos\Projeto-Xadrez-Console\obj\Debug\net5.0\Projeto-Xadrez-Console.pdb
+C:\Users\Marlyson Clingio\source\repos\Projeto-Xadrez-Console\obj\Debug\net5.0\Projeto-Xadrez-Console.genruntimeconfig.cache
